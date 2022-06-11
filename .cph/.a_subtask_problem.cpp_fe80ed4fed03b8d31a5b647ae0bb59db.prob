@@ -1,0 +1,1 @@
+{"name":"Local: a_subtask_problem","url":"v:\\C++\\Codechef\\a_subtask_problem.cpp","tests":[{"id":1640964482810,"input":"4\n4 2 50\n1 0 1 1\n3 2 50\n1 1 0\n4 2 50\n1 1 1 1\n5 3 30\n1 1 0 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\C++\\Codechef\\a_subtask_problem.cpp","group":"local","local":true}

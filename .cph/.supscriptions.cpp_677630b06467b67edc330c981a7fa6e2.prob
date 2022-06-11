@@ -1,0 +1,1 @@
+{"name":"Local: supscriptions","url":"v:\\C++\\Codechef\\supscriptions.cpp","tests":[{"id":1654927233842,"input":"3\n1 100\n12 250\n16 135","output":"100\n500\n405"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\C++\\Codechef\\supscriptions.cpp","group":"local","local":true}

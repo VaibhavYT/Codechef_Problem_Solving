@@ -1,0 +1,1 @@
+{"name":"Local: maximum_trio","url":"v:\\C++\\Codechef\\maximum_trio.cpp","tests":[{"id":1640444389580,"input":"3\n3\n1 -1 3\n5\n3 4 4 1 2\n5\n23 17 21 18 19","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\C++\\Codechef\\maximum_trio.cpp","group":"local","local":true}

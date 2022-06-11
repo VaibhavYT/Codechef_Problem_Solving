@@ -1,0 +1,1 @@
+{"name":"Local: maximum_factor_problem","url":"v:\\C++\\Codechef\\maximum_factor_problem.cpp","tests":[{"id":1640878385887,"input":"3\n3\n4\n6","output":"3\n2\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\C++\\Codechef\\maximum_factor_problem.cpp","group":"local","local":true}
