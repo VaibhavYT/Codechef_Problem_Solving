@@ -1,0 +1,1 @@
+{"name":"Local: KNIGHTATTACK","url":"v:\\C++\\Codechef\\KNIGHTATTACK.cpp","tests":[{"id":1655909715395,"input":"4\n1 1\n1 2\n1 1\n1 3\n1 1\n1 4\n1 1\n1 5","output":"NO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\C++\\Codechef\\KNIGHTATTACK.cpp","group":"local","local":true}

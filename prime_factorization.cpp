@@ -1,11 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+void prime(int n)
 int main(){
-   int n = 7;
-   cout<<n/2;
 
-
-    
-
-    
 }

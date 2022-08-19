@@ -4,7 +4,9 @@
         "chrono": "cpp",
         "algorithm": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
