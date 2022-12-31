@@ -1,11 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-   int n = 7;
-   cout<<n/2;
-
-
-    
-
-    
+	int n = 1/10;
+	cout<<n;
+	
 }

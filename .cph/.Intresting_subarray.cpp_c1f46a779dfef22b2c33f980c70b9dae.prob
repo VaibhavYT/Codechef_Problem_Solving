@@ -1,0 +1,1 @@
+{"name":"Local: Intresting_subarray","url":"v:\\C++\\Codechef\\Intresting_subarray.cpp","tests":[{"id":1662830077759,"input":"2\n2\n2 2\n3\n5 0 9","output":"4 4\n0 81"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"v:\\C++\\Codechef\\Intresting_subarray.cpp","group":"local","local":true}
